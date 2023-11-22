@@ -1,0 +1,9 @@
+.PAGINA{
+    background-image: url(./Fondo.jpg);
+    height: 89vh;
+    background-size: cover;
+}
+
+.Fornn{
+    padding: 5% 0% 0% 0%;
+}
